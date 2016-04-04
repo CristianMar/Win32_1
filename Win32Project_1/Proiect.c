@@ -6,3 +6,5 @@ int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
 	MessageBox(NULL, "Goodbye, cruel world!", "Note", MB_OK);
 	return 0;
 }
+
+/* #include <stdio.h>*/
